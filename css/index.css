@@ -134,3 +134,31 @@ html,
 body {
   height: 100%;
 }
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 60vw;
+}
+.head-text {
+  text-align: center;
+  margin: 5%;
+}
+.first-article {
+  display: flex;
+  background-color: rgba(238, 237, 237, 0.986);
+}
+.bio-pic {
+  width: 40%;
+  height: 20%;
+  margin: 10%;
+}
+p {
+  width: 20%;
+  height: 20%;
+  margin: 10%;
+  line-height: 1.3rem;
+}
+.second-article {
+  background-color: rgba(238, 237, 237, 0.986);
+}
